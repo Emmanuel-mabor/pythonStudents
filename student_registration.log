@@ -1,0 +1,14 @@
+2023-10-25 00:36:04,213 - root - INFO - Generating data analytics report
+2023-10-25 01:02:33,248 - root - INFO - User registered: Username=emmanuel
+2023-10-25 01:03:04,451 - root - INFO - User registered: Username=emmanuel
+2023-10-25 02:23:31,033 - root - INFO - Generating data analytics report
+2023-10-25 10:30:35,396 - root - INFO - Generating data analytics report
+2023-10-25 13:40:17,719 - root - INFO - Student registered: Name=me, Student ID=234
+2023-10-25 13:41:15,984 - root - INFO - Student registered: Name=yes, Student ID=yyuu
+2023-10-25 13:41:24,770 - root - INFO - Generating data analytics report
+2023-10-25 13:42:25,810 - root - INFO - Student registered: Name=emmanuel, Student ID=78778
+2023-10-25 13:42:28,034 - root - INFO - Generating data analytics report
+2023-10-25 23:03:55,636 - root - ERROR - Database error during student registration: UNIQUE constraint failed: students.student_id
+2023-10-25 23:04:07,949 - root - INFO - Student registered: Name=ATHIEI, Student ID=234344
+2023-10-26 21:41:58,847 - root - INFO - Student registered: Name=BRIAN, Student ID=21344
+2023-10-26 21:42:21,164 - root - INFO - Generating data analytics report
