@@ -1,0 +1,3 @@
+2023-10-27 01:44:03,953 - root - ERROR - Failed to register student: Name and Student ID are required
+2023-10-27 01:44:14,629 - root - INFO - Student registered: Name=emmanuel, Student ID=345rtyui
+2023-10-27 02:03:47,061 - root - INFO - Generating data analytics report
